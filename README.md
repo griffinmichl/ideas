@@ -1,0 +1,2 @@
+# ideas
+Side Project Ideas
