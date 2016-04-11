@@ -6,3 +6,4 @@
 - Monitor noise levels in open office space, send alert when they get too high
 - Website for submitting app ideas
 - Language syntax comparison (users submit solutions to the same problem in different languages)
+- RTC with emoticon/drawing overlays and record option
