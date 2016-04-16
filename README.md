@@ -7,3 +7,5 @@
 - Website for submitting app ideas
 - Language syntax comparison (users submit solutions to the same problem in different languages)
 - RTC with emoticon/drawing overlays and record option
+- Make a toy functional programming language that has extremely human readable syntax, potentially using some NLP.
+Helpful research paper: [Studying the Language and Structure in Non-Programmers’ Solutions to Programming Problems](http://alumni.cs.ucr.edu/~ratana/PaneRatanamahatanaMyers00.pdf)
